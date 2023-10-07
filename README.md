@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+| <a href="https://github.com/raphaelbertoldo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelbertoldo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Raphael's github stats" /></a> | <a href="https://github.com/raphaelbertoldo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbertoldo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
