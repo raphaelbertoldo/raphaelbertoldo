@@ -9,11 +9,6 @@
         src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"
         alt="Desenvolvedor Header"
     />
-     <a href="https://github.com/raphaelbertoldo/github-readme-stats"
-        ><img
-            align="center"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelbertoldo&layout=compact&theme=buefy&hide_border=true"
-    /></a>
     <h2>Sobre Mim 🚀</h2>
     <p>👨&zwj;💻 Desenvolvedor Full Stack especializado em:</p>
     <p>
