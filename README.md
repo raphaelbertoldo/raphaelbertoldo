@@ -59,8 +59,7 @@
     </p>
     <h2>Soft Skills Destacadas 🎯</h2>
    <p>
-        💼 Sou um líder nato, transformando ideias em realidade e desafios em conquistas. Com uma abordagem séria e
-        divertida, aqui estão algumas das minhas habilidades não técnicas:
+        💼 Sou um líder nato, transformando ideias em realidade e desafios em conquistas. Aqui estão algumas das minhas habilidades não técnicas:
     </p>
     <ol>
         <li>
