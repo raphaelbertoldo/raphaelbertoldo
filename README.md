@@ -10,7 +10,8 @@
         alt="Desenvolvedor Header"
     />
     <h2>Sobre Mim 🚀</h2>
-    <p>👨&zwj;💻 Desenvolvedor Full Stack especializado em:</p>
+    <p>👨&zwj;💻 Desenvolvedor Full Stack</p>
+    <p>👨&zwj;💻 🧮 Habilidades</p>
     <p>
         <img
             src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white"
