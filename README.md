@@ -1,12 +1,14 @@
 <div class="markdown prose w-full break-words dark:prose-invert dark">
-  
+  <div  style="display: flex; align-items: center; justify-content: center">
+    
  <h3>
   Full Stack Engineer | AI Solutions 
  <img src="https://media.tenor.com/TXmUqPwdpkAAAAAj/coffee-emoji.gif"/>
  </h3>
+  </div>
   
   <p>Welcome to my LAB, where the fantastic things happen.</p>
-  <p>I have been building full-stack applications since 2020. I am passionate about innovation and exploring new possibilities. The systems, the internet, and computers seem like magic to me—simply fantastic. I love exploring the new ways that technology offers every day.</p>
+  <p>I have been building full-stack applications since 2020. I am passionate about innovation and exploring new possibilities. The systems, the internet, and computers seem like magic to me simply fantastic. I love exploring the new ways that technology offers every day.</p>
   <h4>ALL IS POSSIBLE!</h4>
   <p>Skills</p>
   <p>
@@ -20,7 +22,7 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" />
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&amp;logo=neo4j&amp;logoColor=white" alt="Neo4j" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+    <img src="https://img.shields.io/badge/OPENAI API-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
     <img src="https://img.shields.io/badge/Anthropic_API-6E00FF?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Anthropic API" />
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
     <img src="https://img.shields.io/badge/LangChain-6E00FF?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
