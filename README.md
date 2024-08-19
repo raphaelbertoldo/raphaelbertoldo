@@ -60,4 +60,5 @@
 <hr />
 <h2>Get in Touch</h2>
 <p>📬 Email: <a href="mailto:raphaelferreirabertoldo@gmail.com" target="_new">raphaelferreirabertoldo@gmail.com</a><br /></p>
+<p>📬 Email: <a href="mailto:raphaelbertoldodev@gmail.com" target="_new">raphaelbertoldodev@gmail.com</a><br /></p>
 <p>📲 Phone: +55 34 993139666<br /></p>
